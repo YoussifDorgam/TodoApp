@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 34,
+-"articles": [
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "رحيل موسيماني عن الأهلي .. الخطيب يحدد الموعد (تفاصيل) - Al Masry Al Youm - المصري اليوم",
+"description": null,
+"url": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yNDIyNjgw0gE1aHR0cHM6Ly93d3cuYWxtYXNyeWFseW91bS5jb20vbmV3cy9kZXRhaWxzYW1wLzI0MjI2ODA?oc=5",
+"urlToImage": null,
+"publishedAt": "2021-09-22T18:27:44Z",
+"content": null
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "رهانًا على 25 ألف جنيه.. ضبط عامل لسيره عاريًا في الشارع بالشرقية - المصري اليوم",
+"description": null,
+"url": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yNDIyNjU10gE1aHR0cHM6Ly93d3cuYWxtYXNyeWFseW91bS5jb20vbmV3cy9kZXRhaWxzYW1wLzI0MjI2NTU?oc=5",
+"urlToImage": null,
+"publishedAt": "2021-09-22T17:54:37Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Ahram.org.eg"
+},
+"author": null,
+"title": "أخبار الأهلي.. خطة «الخطيب» للتخلص من «موسيماني» - بوابة الأهرام",
+"description": "",
+"url": "https://gate.ahram.org.eg/News/2963822.aspx",
+"urlToImage": "https://gate.ahram.org.eg/Media/News/2021/9/9/19_2021-637667624981088595-108.jpg",
+"publishedAt": "2021-09-22T17:35:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Alarabiya.net"
+},
+"author": "العربية",
+"title": "المياه تعود..أزمة الغواصات تنتهي باتصال بين بايدن وماكرون - العربية",
+"description": "صدقت التوقعات فعلاً واتصل الرئيس الأميركي، جو بايدن، بنظيره الفرنسي، إيمانويل ماكرون، مساء الأربعاء، بعد التوتر بين الطرفين على خلفية الحلف الأمني وصفقة ال",
+"url": "https://www.alarabiya.net/arab-and-world/american-elections-2016/2021/09/22/%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D8%AA%D8%B9%D9%88%D8%AF-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%BA%D9%88%D8%A7%D8%B5%D8%A7%D8%AA-%D8%AA%D9%86%D8%AA%D9%87%D9%8A-%D8%A8%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D9%8A%D9%86-%D8%A8%D8%A7%D9%8A%D8%AF%D9%86-%D9%88%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86",
+"urlToImage": "https://vid.alarabiya.net/images/2021/09/20/2ed01ff5-1e8d-433e-b6f7-be49da078007/2ed01ff5-1e8d-433e-b6f7-be49da078007_16x9_600x338.jpg",
+"publishedAt": "2021-09-22T16:40:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Filgoal.com"
+},
+"author": "<a href='https://www.filgoal.com/editor/details/106559'>FilGoal</a>",
+"title": "جيمس رودريجيز إلى الريان القطري - في الجول",
+"description": "أعلن نادي الريان القطري ضم الكولومبي جيمس رودريجيز قادما من إيفرتون الإنجليزي.",
+"url": "https://www.filgoal.com/articles/419038",
+"urlToImage": "https://media.filgoal.com/news/verylarge/254115_0.jpg",
+"publishedAt": "2021-09-22T16:20:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": "rt",
+"name": "RT"
+},
+"author": "RT Arabic",
+"title": "\"قنبلة موقوتة\" بـ300 مليار دولار تهدد أسواق المال العالمية - RT Arabic",
+"description": "على الرغم من إعلان شركة \"إيفرغراند\" الصينية العملاقة التوصل إلى اتفاق لتجنب التخلف عن السداد، إلا أن الأسواق لا تزال تشعر بالقلق بسبب الديون الضخمة للشركة العقارية.",
+"url": "https://arabic.rt.com/business/1275811-%D9%82%D9%86%D8%A8%D9%84%D8%A9-%D9%85%D9%88%D9%82%D9%88%D8%AA%D8%A9-%D8%A8%D9%80300-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/",
+"urlToImage": "https://cdni.rt.com/media/pics/2021.09/original/614b46f842360467d8611c6d.jpg",
+"publishedAt": "2021-09-22T16:11:00Z",
+"content": ":22.09.2021 | 16:11 GMT | \r\n :22.09.2021 | 16:26 GMT |"
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "أوبو تحطم الأسعار بـ Oppo A55 4G.. هاتف أنيق وفخم بمواصفات رائعة - نجوم مصرية",
+"description": null,
+"url": "https://news.google.com/__i/rss/rd/articles/CBMinQFodHRwczovL3d3dy5uZ21pc3IuY29tL3RlY2gvJUQ5JTg1JUQ5JTg4JUQ4JUE3JUQ4JUI1JUQ5JTgxJUQ4JUE3JUQ4JUFBLSVEOSU4OCVEOCVCMyVEOCVCOSVEOCVCMS0lRDklODclRDglQTclRDglQUElRDklODEtJUQ4JUEzJUQ5JTg4JUQ4JUE4JUQ5JTg4LW9wcG8tYTU1LTRn0gEA?oc=5",
+"urlToImage": null,
+"publishedAt": "2021-09-22T15:58:54Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Alarabiya.net"
+},
+"author": "العربية",
+"title": "بعد صالح.. حفتر يبتعد عن قيادة الجيش حتى يوم الانتخابات - العربية",
+"description": "لم تهدأ البلبلة التي أثيرت خلال الساعات الماضية في الشارع الليبي حول استقالة رئيس البرلمان، عقيلة صالح، التي تبين بعدها أنه دخل في إجازة إلى حين موعد الانت",
+"url": "https://www.alarabiya.net/north-africa/2021/09/22/%D8%A8%D8%B9%D8%AF-%D8%B5%D8%A7%D9%84%D8%AD-%D8%AD%D9%81%D8%AA%D8%B1-%D9%8A%D8%A8%D8%AA%D8%B9%D8%AF-%D8%B9%D9%86-%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%AD%D8%AA%D9%89-%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA",
+"urlToImage": "https://vid.alarabiya.net/images/2021/06/24/d242c07f-3464-4067-90d0-f79354ea6328/d242c07f-3464-4067-90d0-f79354ea6328_16x9_600x338.JPG",
+"publishedAt": "2021-09-22T15:37:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Youm7.com"
+},
+"author": null,
+"title": "تخفيض عقوبة شيكابالا لثمانية مباريات و250 ألف جنيه - اليوم السابع",
+"description": "قررت لجنة التظلمات بالاتحاد المصرى لكرة القدم برئاسة عادل الشوربجي تخفيض عقوبة محمود عبدالرازق \" شيكابالا \" لاعب فريق الزمالك، لثمانية مباريات، خلال اجتماعها المنعقد خلال الوقت الحالى  بمقر الاتحاد.",
+"url": "https://www.youm7.com/story/2021/9/22/تخفيض-عقوبة-شيكابالا-لثمانية-مباريات-و250-ألف-جنيه/5470219",
+"urlToImage": "https://img.youm7.com/large/202109101116531653.jpg",
+"publishedAt": "2021-09-22T15:20:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Filfan.com"
+},
+"author": "مي جودة",
+"title": "مي حلمي تبدأ العد التنازلي لحفل زفافها - FilFan.com",
+"description": "نشرت مقدمة البرامج مي حلمي صورة غامضة حيرت جمهورها إن كانت تقصد موعد حفل زفافها أم الإعلان عن عريسها المنتظر.",
+"url": "https://www.filfan.com/news/137681",
+"urlToImage": "https://media.filfan.com/NewsPics/FilfanNew/large/341417_0.jpg",
+"publishedAt": "2021-09-22T14:55:11Z",
+"content": ".\r\n Stories Instagram \" \" : \" \".\r\n .\r\n \"\" \" \" 28 .\r\n \"\" \r\n : ... 36 \r\n #_: .. \r\n () \r\n \"\".. ()"
+},
+-{
+-"source": {
+"id": "rt",
+"name": "RT"
+},
+"author": "RT Arabic",
+"title": "\"لقاحات في السلَطة\" .. تطوير نباتات تعمل بنفس تقنية \"فايزر\" و\"موديرنا\" لتحل محل الحقن - RT Arabic",
+"description": "يبدو مستقبل اللقاحات أشبه بتناول سلطة أكثر من الحصول على حقنة في الذراع، حيث يدرس العلماء ما إذا كان بإمكانهم تحويل النباتات الصالحة للأكل إلى مصانع لقاحات mRNA.",
+"url": "https://arabic.rt.com/technology/1275748-%D9%84%D9%82%D8%A7%D8%AD%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%86%D8%A8%D8%A7%D8%AA%D8%A7%D8%AA-%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D9%86%D9%81%D8%B3-%D8%AA%D9%82%D9%86%D9%8A%D8%A9-%D9%81%D8%A7%D9%8A%D8%B2%D8%B1-%D9%88%D9%85%D9%88%D8%AF%D9%8A%D8%B1%D9%86%D8%A7-%D9%84%D8%AA%D8%AD%D9%84-%D9%85%D8%AD%D9%84-%D8%A7%D9%84%D8%AD%D9%82%D9%86/",
+"urlToImage": "https://cdni.rt.com/media/pics/2021.09/original/614b14ea4c59b7608951e370.jpg",
+"publishedAt": "2021-09-22T14:34:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Youm7.com"
+},
+"author": null,
+"title": "فودافون تكشف حقيقة بيعها لشركة الاتصالات السعودية - اليوم السابع",
+"description": "أكد أيمن عصام، رئيس قطاع الشئون الخارجية والقانونية بشركة فودافون مصر، إنه لا توجد أى محادثات جارية بين شركة فودافون العالمية وشركة الاتصالات السعودية STC..",
+"url": "https://www.youm7.com/story/2021/9/22/فودافون-تكشف-حقيقة-بيعها-لشركة-الاتصالات-السعودية/5470126",
+"urlToImage": "https://img.youm7.com/large/201705260655175517.jpg",
+"publishedAt": "2021-09-22T14:09:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Alarabiya.net"
+},
+"author": "العربية",
+"title": "بعد تلقيها أغلى علاج بالعالم.. وفاة الطفلة المصرية ليال - العربية",
+"description": "\"لله ما أعطى ولله ما أخذ، ليال في ذمة الله\"، بهذه الكلمات المؤثرة نعى والد الطفلة ليال صغيرته التي كانت مصابة بمرض ضمور العضلات الشوكي، وبعد تلقيها أغلى عل",
+"url": "https://www.alarabiya.net/arab-and-world/egypt/2021/09/22/%D8%A8%D8%B9%D8%AF-%D8%AA%D9%84%D9%82%D9%8A%D9%87%D8%A7-%D8%A3%D8%BA%D9%84%D9%89-%D8%B9%D9%84%D8%A7%D8%AC-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D8%B7%D9%81%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%8A%D8%A7%D9%84-",
+"urlToImage": "https://vid.alarabiya.net/images/2021/09/22/113a8aa3-ed7b-41a6-8e78-2f3184ea0e6d/113a8aa3-ed7b-41a6-8e78-2f3184ea0e6d_16x9_600x338.jpeg",
+"publishedAt": "2021-09-22T13:29:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "بأمر من المهن الموسيقة.. منع 5 مطربين من الغناء أبرزهم عفرتو ومروان موسى - كورة في العارضة - في العارضة",
+"description": null,
+"url": "https://news.google.com/__i/rss/rd/articles/CBMi5QFodHRwczovL2tvcmEuZmFsM2FyZGEuY29tLzU5ODUxNC8lRDglQTglRDglQTMlRDklODUlRDglQjEtJUQ5JTg1JUQ5JTg2LSVEOCVBNyVEOSU4NCVEOSU4NSVEOSU4NyVEOSU4Ni0lRDglQTclRDklODQlRDklODUlRDklODglRDglQjMlRDklOEElRDklODIlRDglQTktJUQ5JTg1JUQ5JTg2JUQ4JUI5LTUtJUQ5JTg1JUQ4JUI3JUQ4JUIxJUQ4JUE4JUQ5JThBJUQ5JTg2LSVEOSU4NSVEOSU4Ni0lRDglQTcv0gHpAWh0dHBzOi8va29yYS5mYWwzYXJkYS5jb20vNTk4NTE0LyVEOCVBOCVEOCVBMyVEOSU4NSVEOCVCMS0lRDklODUlRDklODYtJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JTg3JUQ5JTg2LSVEOCVBNyVEOSU4NCVEOSU4NSVEOSU4OCVEOCVCMyVEOSU4QSVEOSU4MiVEOCVBOS0lRDklODUlRDklODYlRDglQjktNS0lRDklODUlRDglQjclRDglQjElRDglQTglRDklOEElRDklODYtJUQ5JTg1JUQ5JTg2LSVEOCVBNy9hbXAv?oc=5",
+"urlToImage": null,
+"publishedAt": "2021-09-22T12:57:58Z",
+"content": null
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "«المالية»: لا صحة للتصريحات المنسوبة لوزير المالية حول ماكينات الصراف الآلي - Al Masry Al Youm - المصري اليوم",
+"description": null,
+"url": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yNDIyNDA20gE1aHR0cHM6Ly93d3cuYWxtYXNyeWFseW91bS5jb20vbmV3cy9kZXRhaWxzYW1wLzI0MjI0MDY?oc=5",
+"urlToImage": null,
+"publishedAt": "2021-09-22T12:24:13Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Alarabiya.net"
+},
+"author": "العربية",
+"title": "حزب الأمة: تصريحات البرهان عن السياسيين بالسودان خطيرة - العربية",
+"description": "بعد تصريحات نارية لرئيس مجلس السيادة السوداني عبد الفتاح البرهان اليوم الأربعاء، انتقد فيها الطبقة السياسية في البلاد، متهماً إياها بإضاعة الثورة عبر الصرا",
+"url": "https://www.alarabiya.net/arab-and-world/2021/09/22/%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D8%A3%D9%85%D8%A9-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%87%D8%A7%D9%86-%D8%B9%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%AE%D8%B7%D9%8A%D8%B1%D8%A9",
+"urlToImage": "https://vid.alarabiya.net/images/2021/09/21/55f337b2-5d42-4256-a657-7761dd53a9cb/55f337b2-5d42-4256-a657-7761dd53a9cb_16x9_600x338.JPG",
+"publishedAt": "2021-09-22T11:57:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Masrawy.com"
+},
+"author": "مصراوي",
+"title": "قفزة في أسعار الذهب في مصر.. والجرام يصعد 5 جنيهات اليوم الأربعاء - Masrawy-مصراوي",
+"description": "قفزة في أسعار الذهب في مصر والجرام يصعد 5 جنيهات اليوم الأربعاء | مصراوى",
+"url": "https://www.masrawy.com/news/news_economy/details/2021/9/22/2093775/قفزة-في-أسعار-الذهب-في-مصر-والجرام-يصعد-5-جنيهات-اليوم-الأربعاء-",
+"urlToImage": "https://media.gemini.media/img/large/2021/9/22/2021_9_22_12_49_15_907.jpg",
+"publishedAt": "2021-09-22T10:50:00Z",
+"content": "- :\r\n 5 .\r\n 3 8 .\r\n 21 780 775 .\r\n 18 669 24 891 6960 .\r\n 0.09% 1766.05 12:23 .\r\n<li></li>"
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "مجلس الوزراء يوافق على 7 قرارات جديدة.. تعرف عليها - Al Masry Al Youm - المصري اليوم",
+"description": null,
+"url": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yNDIyMzE20gE1aHR0cHM6Ly93d3cuYWxtYXNyeWFseW91bS5jb20vbmV3cy9kZXRhaWxzYW1wLzI0MjIzMTY?oc=5",
+"urlToImage": null,
+"publishedAt": "2021-09-22T10:35:41Z",
+"content": null
+},
+-{
+-"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "نتيجة الثانوية الأزهرية الدور الثاني 2021 بوابة الأزهر الالكترونية - Sada El-Bald صدى البلد",
+"description": null,
+"url": "https://news.google.com/__i/rss/rd/articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy80OTc0ODE20gEA?oc=5",
+"urlToImage": null,
+"publishedAt": "2021-09-22T09:27:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Ahram.org.eg"
+},
+"author": null,
+"title": "الحكومة توضح حقيقة تأجيل الدراسة لعدم حصول أعضاء المنظومة التعليمية على لقاح كورونا - بوابة الأهرام",
+"description": "",
+"url": "https://gate.ahram.org.eg/News/2963197.aspx",
+"urlToImage": "https://gate.ahram.org.eg/Media/Banners/Isticker.jpg",
+"publishedAt": "2021-09-22T09:12:00Z",
+"content": "2021/2022 .\r\n 2021/2022 9 .\r\n 2021/2022 9 2021 19 2022 15 2022 7 2022 21 2022 11 2022.\r\n ‏ (0227963273) (01155508688 -01155508851) 24 ([email protected])."
+}
+]
+}
