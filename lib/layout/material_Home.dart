@@ -7,11 +7,8 @@ import 'package:todoap/shared/combonants/componants.dart';
 
 class HomeLayout extends StatelessWidget {
   var titlecontrolar = TextEditingController();
-
   var datecontrolar = TextEditingController();
-
   var Timecontrolar = TextEditingController();
-
   var Scaffoldkey = GlobalKey<ScaffoldState>();
   var formkey = GlobalKey<FormState>();
 
@@ -29,10 +26,14 @@ class HomeLayout extends StatelessWidget {
         builder: (context, status) {
           bloc cubit = bloc.get(context);
           return Scaffold(
+            backgroundColor: Colors.white,
             key: Scaffoldkey,
             appBar: AppBar(
+              backgroundColor: Colors.white,
+              elevation: 0.1,
               title: Text(
                 'Todo App ',
+                style: TextStyle(color: Colors.black),
               ),
             ),
             floatingActionButton: FloatingActionButton(
